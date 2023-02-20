@@ -1,24 +1,27 @@
 {
-	"name": "max-api-or-not",
-	"version": "1.1.1",
-	"description": "Error-free N4M outside of Max",
-	"main": "index.js",
-	"types": "index.d.ts",
-	"scripts": {},
-	"keywords": [
-		"max",
-		"max/msp",
-		"n4m",
-		"cycling' 74",
-		"node for max",
-		"node.script",
-		"max-api"
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/dimitriaatos/max-api-or-not.git"
-	},
-	"homepage": "https://github.com/dimitriaatos/max-api-or-not",
-	"author": "Dimitri Aatos Ellinas",
-	"license": "CC-BY-4.0"
+  "name": "@shren/max-api-or-not",
+  "version": "1.1.1",
+  "description": "Error-free N4M outside of Max",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "max",
+    "max/msp",
+    "n4m",
+    "cycling' 74",
+    "node for max",
+    "node.script",
+    "max-api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitriaatos/max-api-or-not.git"
+  },
+  "homepage": "https://github.com/dimitriaatos/max-api-or-not",
+  "author": "Dimitri Aatos Ellinas",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/dimitriaatos/max-api-or-not/issues"
+  }
 }

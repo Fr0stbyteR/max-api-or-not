@@ -1,9 +1,9 @@
-namespace MaxAPI {
+declare namespace MaxAPI {
     type messageTypes = "ALL" | "BANG" | "DICT" | "NUMBER" | "LIST";
     type postLevels = "ERROR" | "INFO" | "WARN";
 }
 
-const MaxAPI: {
+declare const MaxAPI: {
     /** Built-in message types used for generic event handling */
     MESSAGE_TYPES: Record<MaxAPI.messageTypes, string>;
     /** Post/Log Levels */
